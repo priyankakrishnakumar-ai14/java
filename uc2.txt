@@ -1,4 +1,4 @@
-public class classname {
+public class uc2 {
 
     public static void main(String[] args) {
 
@@ -11,3 +11,4 @@ public class classname {
         System.out.println("   ***   " + "   " + "   ***   " + "   " + " **      " + "   " + "  *****  ");
     }
 }
+
