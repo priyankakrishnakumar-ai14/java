@@ -1,6 +1,0 @@
-class classname{
-public static void main(string argd[])
-{
-system.out.println("oops")
-}
-} 
